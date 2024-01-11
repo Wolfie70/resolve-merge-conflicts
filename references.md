@@ -1,3 +1,2 @@
-# References
 
-* octocat 1 😈
+Today is washing code day.
